@@ -57,7 +57,7 @@ function MenuDetalhado() {
                     <Card.Body className='d-flex w-100 justify-content-between align-items-center'>
                         <div className='d-flex align-items-center g-10'>
                             <Image
-                                src={`${process.env.PUBLIC_URL}/images/icons/guarnicao1.png`}
+                                src={`/images/icons/guarnicao1.png`}
                                 style={{ maxHeight: "120px", color: "white", marginRight: "20px" }}
                                 className="h-140 rounded" />
                         </div>
